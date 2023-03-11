@@ -1,7 +1,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=ab-kiran-18&label=Profile%20views&color=e89b17&style=flat" alt="ab-kiran-18" /> </p>
 
-<p align="center"><img width="25%" alt="Hello, I'm AB kiran" src="https://user-images.githubusercontent.com/82028759/224509356-39ecc21c-32dd-4b89-ad7d-e378e0d54c00.png" /></p>
- 
+<p align="center"><img width="45%" alt="Hello, I'm AB kiran" src="https://user-images.githubusercontent.com/82028759/224509922-4fe7747f-a7eb-42a3-9532-eb78d1bcbafd.png" /></p>
+
 > I'm a passionate and a curious **Tech explorer**
 
 **About me**
