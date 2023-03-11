@@ -1,11 +1,7 @@
-<br />
-<br />
-
-[my portfolio](https://ab-kiran.000webhostapp.com/)
- 
 <p> <img src="https://komarev.com/ghpvc/?username=ab-kiran-18&label=Profile%20views&color=e89b17&style=flat" alt="ab-kiran-18" /> </p>
 
-
+<p align="center"><img width="25%" alt="Hello, I'm AB kiran" src="https://user-images.githubusercontent.com/82028759/224509356-39ecc21c-32dd-4b89-ad7d-e378e0d54c00.png" /></p>
+ 
 > I'm a passionate and a curious **Tech explorer**
 
 **About me**
@@ -14,7 +10,11 @@
 
 - 🌱 I’m currently exploring **Machine Learning, Django, React, Next Js**
 
-- Upgrading Myself to my **Best Version**. 
+- 👨‍ Upgrading Myself to my **Best Version**. 
+
+- 📫 How to reach me 18abkiran5o5@gmail.com
+
+> Know more about me : [my portfolio](https://ab-kiran.000webhostapp.com/)
  
 
 <h3 align="left">Connect with me:</h3>
