@@ -1,7 +1,4 @@
 <br />
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm AB kiran" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 [my portfolio](https://ab-kiran.000webhostapp.com/)
