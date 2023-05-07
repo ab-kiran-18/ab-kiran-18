@@ -6,7 +6,7 @@
 
 - 💼 Python developer at [Myways](http://myways.ai)
 
-- 🌱 I’m currently exploring **Machine Learning, Django, React, Next Js**
+- 🌱 I’m currently exploring **AWS Services, React, Next Js**
 
 - 👨‍ Upgrading Myself to my **Best Version**. 
 
