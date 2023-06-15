@@ -31,9 +31,5 @@
 </p>
 
 
-
-
-<p>&nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ab-kiran-18&show_icons=true&theme=dark&locale=en" alt="ab-kiran-18" /></p>
-
 <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-kiran-18&theme=dark" alt="ab-kiran-18" /></p>
 
