@@ -32,9 +32,6 @@
 
 
 
-<p>
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-kiran-18&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ab-kiran-18" />
-</p>
 
 <p>&nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ab-kiran-18&show_icons=true&theme=dark&locale=en" alt="ab-kiran-18" /></p>
 
