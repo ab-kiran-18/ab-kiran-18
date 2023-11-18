@@ -14,6 +14,8 @@
 
 > Know more about me : [my portfolio](https://ab-kiran.000webhostapp.com/)
 
+> my portfolio is inspired from [Guillaume Gouessan](https://guillaumegouessan.com/)
+
 >   I am a **passionate and curious tech explorer** with a love for **innovation** and **problem-solving**. My commitment to staying up-to-date with the latest technology trends and continuously learning sets me apart. I am Committed to high-quality code and continuous improvement, eager to contribute to innovative projects.
  
  <h3 align="left">Languages:</h3>
