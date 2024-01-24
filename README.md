@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Python developer at [Myways](http://myways.ai)
+- 💼 Product Engineer at [Myways](http://myways.ai)
 
 - 🌱 I’m currently exploring **AWS Services, React, Next Js**
 
