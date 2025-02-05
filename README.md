@@ -32,6 +32,3 @@
 <a href="https://www.codechef.com/users/kiran_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kiran_18" height="30" width="40" /></a>
 </p>
 
-
-<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-kiran-18&theme=dark" alt="ab-kiran-18" /></p>
-
