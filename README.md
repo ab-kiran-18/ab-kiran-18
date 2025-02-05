@@ -4,13 +4,13 @@
 
 **About me**
 
-- 💼 Product Engineer at [Myways](http://myways.ai)
+- 💼 Leading Frontend at [Myways](http://myways.ai)
 
-- 🌱 I’m currently exploring **AWS Services, React, Next Js**
+- 🌱 Love developing user understandable and pixel perfect interfaces. 
 
 - 👨‍ Upgrading Myself to my **Best Version**. 
 
-- 📫 How to reach me 18abkiran5o5@gmail.com
+- 📫 How to reach me bhargavakiran18.w@gmail.com
 
 > Know more about me : [my portfolio](https://ab-kiran.000webhostapp.com/)
 
