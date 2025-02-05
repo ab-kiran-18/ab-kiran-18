@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Leading Frontend at [Myways](http://myways.ai)
+- 💼 Leading Frontend at [Zeko.ai](https://zeko.ai/) (formerly known as Myways.ai)
 
 - 🌱 I Love Developing pixel-perfect, high-performance, and user-friendly interfaces.
 
