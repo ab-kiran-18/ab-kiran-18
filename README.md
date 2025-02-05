@@ -6,9 +6,9 @@
 
 - 💼 Leading Frontend at [Myways](http://myways.ai)
 
-- 🌱 Love developing user understandable and pixel perfect interfaces. 
+- 🌱 I Love Developing pixel-perfect, high-performance, and user-friendly interfaces.
 
-- 👨‍ Upgrading Myself to my **Best Version**. 
+- 👨‍ Always strive to improve and become the best version of myself.
 
 - 📫 How to reach me bhargavakiran18.w@gmail.com
 
