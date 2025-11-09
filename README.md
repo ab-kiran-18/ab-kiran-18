@@ -4,17 +4,15 @@
 
 **About me**
 
-- 💼 Leading Frontend at [Zeko.ai](https://zeko.ai/) (formerly known as Myways.ai)
+- 💼 Leading Frontend at [Zeko.ai](https://zeko.ai/)
 
-- 🌱 I Love Developing pixel-perfect, high-performance, and user-friendly interfaces.
-
-- 👨‍ Always strive to improve and become the best version of myself.
+- 🚀 Passionate about building Enterprise-grade, High-performance, and AI-native interfaces that redefine UX.
 
 - 📫 How to reach me bhargavakiran18.w@gmail.com
 
-> Know more about me : [my portfolio](https://ab-kiran.000webhostapp.com/)
+> Know more about me: [my portfolio](https://bhargava-kiran.vercel.app/)
 
-> my portfolio is inspired from [Guillaume Gouessan](https://guillaumegouessan.com/)
+> Areas of Expertise: Next.js, React.js, Typescript, Node.js, MongoDB, Python.
 
 >   I am a **passionate and curious tech explorer** with a love for **innovation** and **problem-solving**. My commitment to staying up-to-date with the latest technology trends and continuously learning sets me apart. I am Committed to high-quality code and continuous improvement, eager to contribute to innovative projects.
  
